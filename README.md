@@ -1,5 +1,7 @@
 # TechFlow Solutions Website
 
+[![Deploy to GitHub Pages](https://github.com/Bigdbetd/COMPSVIII-Assignment2/actions/workflows/deploy.yml/badge.svg)](https://github.com/Bigdbetd/COMPSVIII-Assignment2/actions/workflows/deploy.yml)
+
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
 ## Project Structure
@@ -66,7 +68,7 @@ This project follows a professional Git workflow:
 
 The website is automatically deployed to GitHub Pages using GitHub Actions when changes are pushed to the `main` branch.
 
-**Live Site**: [Your GitHub Pages URL will appear here]
+**Live Site**: [TechFlow Solutions](https://bigdbetd.github.io/COMPSVIII-Assignment2/)
 
 ## Development Workflow
 
