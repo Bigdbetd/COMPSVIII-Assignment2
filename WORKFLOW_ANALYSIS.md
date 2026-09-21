@@ -30,7 +30,7 @@ The environment configuration associates the deployment with GitHub's `github-pa
 
 ## 5. How does automated deployment improve reliability compared with manual deployment?
 
-Automated deployment follows the same repeatable process after every accepted change. It validates the HTML, checks links, and uploads a known artifact before deployment. This reduces human errors such as skipping validation, uploading the wrong files, or forgetting a step. Failed checks are visible in GitHub and prevent the deploy job from running successfully.
+Automated deployment follows the same repeatable process after every accepted change. It validates the HTML, checks links, and uploads a known artifact before deployment. This reduces human errors such as skipping validation, uploading the wrong files, or forgetting a step. Failed checks are visible in GitHub, give the team a clear audit trail, and prevent the deploy job from running successfully.
 
 ## 6. What happens if code is pushed to a branch other than main?
 
